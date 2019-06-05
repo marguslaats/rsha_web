@@ -1,0 +1,6 @@
+#!/bin/bash
+#
+	cd /var/www/html/
+	curl -O http://wordpress.org/latest.tar.gz
+	tar -zxvf latest.tar.gz
+
